@@ -56,3 +56,6 @@ aws configure
 aws access key :AKIARXX5C2CXZ2CWWVPM
 secret access key: O4L4eBxnB9DtqGWdhErsKV9yB1Zltommf3EPV3NWAMISV
 
+create cluster using command:
+eksctl create cluster --name practicedeployment --region us-east-1 --fargate
+
